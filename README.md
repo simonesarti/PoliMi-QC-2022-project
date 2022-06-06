@@ -1,1 +1,1 @@
-# quantum bitonic sort with perfect shuffle
+# Quantum bitonic sort with perfect shuffle
